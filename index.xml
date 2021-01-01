@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Even - A super concise theme for Hugo</title>
-    <link>bynr.github.io/</link>
+    <link>/</link>
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
     
-	<atom:link href="bynr.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>bynr.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>bynr.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
@@ -24,10 +24,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>My First Post</title>
-      <link>bynr.github.io/post/my-first-post/</link>
+      <link>/post/my-first-post/</link>
       <pubDate>Fri, 01 Jan 2021 19:57:08 +0900</pubDate>
       
-      <guid>bynr.github.io/post/my-first-post/</guid>
+      <guid>/post/my-first-post/</guid>
       <description>First post Test.</description>
     </item>
     
