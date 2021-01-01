@@ -24,10 +24,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>My First Post</title>
-      <link>bynr.github.io/posts/my-first-post/</link>
+      <link>bynr.github.io/post/my-first-post/</link>
       <pubDate>Fri, 01 Jan 2021 19:57:08 +0900</pubDate>
       
-      <guid>bynr.github.io/posts/my-first-post/</guid>
+      <guid>bynr.github.io/post/my-first-post/</guid>
       <description>First post Test.</description>
     </item>
     
