@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Not an apple</title>
-    <link>/</link>
-    <description>Recent content on Not an apple</description>
+    <title>Tweets on Not an apple</title>
+    <link>/tweet/</link>
+    <description>Recent content in Tweets on Not an apple</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Jan 2021 22:21:52 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 17:49:18 +0900</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tweet/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Fri, 01 Jan 2021 22:21:52 +0900</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hello world.
-This place is moving fast, things will break!
-A friend.</description>
-    </item>
     
     <item>
       <title></title>
@@ -47,15 +36,6 @@ A friend.</description>
       
       <guid>/tweet/20210131t223635_tweet/</guid>
       <description>test Short tweet. how many charachters? Until here it makes ~60.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>/post/my-first-post/</link>
-      <pubDate>Fri, 01 Jan 2021 19:57:08 +0900</pubDate>
-      
-      <guid>/post/my-first-post/</guid>
-      <description>First post Test.</description>
     </item>
     
   </channel>
